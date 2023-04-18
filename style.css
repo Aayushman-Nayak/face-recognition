@@ -1,0 +1,13 @@
+.heading{
+    width: 100%;
+    color: aqua;
+    background-color: darkolivegreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: 1000;
+}
+
+body{
+    background-color: crimson;
+    color: chartreuse;
+}
